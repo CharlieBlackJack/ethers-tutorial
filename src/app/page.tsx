@@ -33,9 +33,9 @@ export default function Home() {
           <Link className="test-btn" href="/contract">
             Practice Contract
           </Link>
-          {/* <Link className="test-btn" href="/contract">
-            Practice Contract
-          </Link> */}
+          <Link className="test-btn" href="/wallet">
+            Practice Wallet
+          </Link>
         </div>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
